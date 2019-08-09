@@ -1,0 +1,11 @@
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\obj\Debug\netcoreapp2.1\RoomExorsize.csprojAssemblyReference.cache
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\obj\Debug\netcoreapp2.1\RoomExorsize.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\obj\Debug\netcoreapp2.1\RoomExorsize.AssemblyInfoInputs.cache
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\obj\Debug\netcoreapp2.1\RoomExorsize.AssemblyInfo.cs
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\bin\Debug\netcoreapp2.1\RoomExorsize.deps.json
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\bin\Debug\netcoreapp2.1\RoomExorsize.runtimeconfig.json
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\bin\Debug\netcoreapp2.1\RoomExorsize.runtimeconfig.dev.json
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\bin\Debug\netcoreapp2.1\RoomExorsize.dll
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\bin\Debug\netcoreapp2.1\RoomExorsize.pdb
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\obj\Debug\netcoreapp2.1\RoomExorsize.dll
+C:\Users\olivi\source\repos\RoomExorsize\RoomExorsize\obj\Debug\netcoreapp2.1\RoomExorsize.pdb
